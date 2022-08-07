@@ -16,6 +16,6 @@ Runs the app in the development mode.\
 ```npm run build```
 
 
-## `Pioneer Contributor`
+## Pioneer Contributor
 
 0205miss
